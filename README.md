@@ -15,8 +15,10 @@
 <img align="center" alt="Tico" height="180em"src="https://github-readme-stats.vercel.app/api?username=1tico1&theme=dark&show_icons=true">
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1tico1\&theme=dark&layout=compact)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1tico1&theme=dark&repo=welldone)](https://github.com/anuraghazra/welldone)
+ 
+- Current Project:
+  
+ ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1tico1&theme=dark&repo=welldone)
   
   ##
 <div> 
